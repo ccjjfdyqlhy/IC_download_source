@@ -1,2 +1,3 @@
-# IC_download_source
-The code download source of the Intelligence Closet Software.
+# Intelligence Closet Source
+客户端源代码储存库，请勿下载  
+[点击来下载客户端安装程序(setup.py)](https://github.com/ccjjfdyqlhy/Intelligence_Closet_Software)
